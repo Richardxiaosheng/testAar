@@ -1,0 +1,3 @@
+rootProject.name='aardemo'
+include ':app'
+include ':library'
