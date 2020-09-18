@@ -20,7 +20,9 @@ allprojects {
     repositories {
         google()
         jcenter()
-        
+//        https://github.com/Richardxiaosheng/testAar/tree/master/com/testaaa/utils
+        //gittee上文件绝对路径
+        maven { url "https://github.com/Richardxiaosheng/testAar/tree/master" }
     }
 }
 
